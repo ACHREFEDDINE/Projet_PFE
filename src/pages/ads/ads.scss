@@ -1,0 +1,51 @@
+.ads {
+  td,
+  th {
+    padding: 10px;
+  }
+  .container {
+    width: available;
+    height: available;
+  }
+
+  .leftpane {
+    width: 25%;
+    min-width: 350px;
+    height: available;
+    min-height: 400px;
+    float: left;
+    background-color: rosybrown;
+    border-collapse: collapse;
+  }
+
+  .middlepane {
+    width: 50%;
+    min-width: 800px;
+    height: available;
+    min-height: 650px;
+    float: left;
+
+    border-collapse: collapse;
+  }
+
+  .toppane {
+    width: 100%;
+    height: 300px;
+    border-collapse: collapse;
+    background-color: #4da6ff;
+  }
+  display: flex;
+
+  width: 100%;
+  .adsContainer {
+    flex: 6;
+  }
+
+  .des {
+    position: relative;
+    top: 20px;
+    left: 50%;
+    width: 80px;
+    height: 100px;
+  }
+}

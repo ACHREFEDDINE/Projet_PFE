@@ -1,0 +1,57 @@
+.ads {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.ads td,
+.ads th {
+  padding: 10px;
+}
+
+.ads .container {
+  width: available;
+  height: available;
+}
+
+.ads .leftpane {
+  width: 25%;
+  min-width: 350px;
+  height: available;
+  min-height: 400px;
+  float: left;
+  background-color: rosybrown;
+  border-collapse: collapse;
+}
+
+.ads .middlepane {
+  width: 50%;
+  min-width: 800px;
+  height: available;
+  min-height: 650px;
+  float: left;
+  border-collapse: collapse;
+}
+
+.ads .toppane {
+  width: 100%;
+  height: 300px;
+  border-collapse: collapse;
+  background-color: #4da6ff;
+}
+
+.ads .adsContainer {
+  -webkit-box-flex: 6;
+      -ms-flex: 6;
+          flex: 6;
+}
+
+.ads .des {
+  position: relative;
+  top: 20px;
+  left: 50%;
+  width: 80px;
+  height: 100px;
+}
+/*# sourceMappingURL=ads.css.map */

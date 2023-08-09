@@ -1,0 +1,13 @@
+.profile {
+  display: flex;
+
+  width: 100%;
+  .proContainer {
+    flex: 6;
+  }
+  th,
+  td {
+    padding: 15px;
+    text-align: center;
+  }
+}

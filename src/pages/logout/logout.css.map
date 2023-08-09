@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAA;EACH,OAAO,EAAE,IAAI;EAGT,KAAK,EAAE,IAAI;CAIlB;;AARD,AAKQ,OALD,CAKC,aAAa,CAAA;EACT,IAAI,EAAE,CAAC;CACV",
+    "sources": [
+        "logout.scss"
+    ],
+    "names": [],
+    "file": "logout.css"
+}

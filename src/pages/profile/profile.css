@@ -1,0 +1,19 @@
+.profile {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.profile .proContainer {
+  -webkit-box-flex: 6;
+      -ms-flex: 6;
+          flex: 6;
+}
+
+.profile th,
+.profile td {
+  padding: 15px;
+  text-align: center;
+}
+/*# sourceMappingURL=profile.css.map */

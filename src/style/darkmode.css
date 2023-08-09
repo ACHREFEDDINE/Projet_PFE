@@ -1,0 +1,43 @@
+html {
+  font-size: 16px;
+}
+
+.app.darkmode {
+  background-color: #111;
+  color: #9c9c9c;
+}
+
+.app.darkmode .chartGrid {
+  stroke: rgba(228, 228, 228, 0.219);
+}
+
+.app.darkmode .navbar {
+  color: #999;
+  border-color: #333;
+}
+
+.app.darkmode .navbar .search {
+  border-color: gray;
+}
+
+.app.darkmode .sidebar {
+  background-color: #111;
+  border-color: #333;
+}
+
+.app.darkmode .top .logo {
+  color: #999;
+}
+
+.app.darkmode .top .logo {
+  color: #999;
+}
+
+.app.darkmode hr {
+  border-color: #333;
+}
+
+.app.darkmode ul li:hover {
+  background-color: #333;
+}
+/*# sourceMappingURL=darkmode.css.map */
